@@ -18,7 +18,8 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
       
       <guid>https://shenghuili2.github.io/home/about/</guid>
-      <description>Biography Welcome to my homepage! My name is Shenghui Li. I am currently a master student under the co-supervision of Prof. Wuhui Chen and Prof. Zibin Zheng at the School of Data and Computer Science of Sun Yat-sen University. I got my bachelor degree from Xidian University in 2017.</description>
+      <description>Biography Welcome to my homepage! My name is Shenghui Li. I am currently a master student under the co-supervision of Prof. Wuhui Chen and Prof. Zibin Zheng at the School of Data and Computer Science of Sun Yat-sen University. I got my bachelor degree from Xidian University in 2017.
+I am applying to PhD programs for Autumn 2019 entry. If you are seeking self-motivated and self-disciplined students, I am always an option!</description>
     </item>
     
     <item>
@@ -67,13 +68,13 @@
     </item>
     
     <item>
-      <title>Custom Section</title>
+      <title>Teaching</title>
       <link>https://shenghuili2.github.io/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
       
       <guid>https://shenghuili2.github.io/home/teaching/</guid>
-      <description>This is an example of using the custom widget to create your own homepage section.
-To remove this section, either delete content/home/teaching.md or edit the frontmatter of the file to deactivate the widget by setting active = false.</description>
+      <description>I am a teaching assistant for the following course at SYSU:
+ 2017-Spring Software Engineering Training: Cloud Robotics  </description>
     </item>
     
     <item>
