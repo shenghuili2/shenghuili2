@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Adaptive Afﬁnity Learning for Accurate Community Detection</title>
+      <link>https://shenghuili2.github.io/publication/aanmf/</link>
+      <pubDate>Wed, 18 Jul 2018 03:52:05 +0800</pubDate>
+      
+      <guid>https://shenghuili2.github.io/publication/aanmf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Latency-Aware Task Assignment and Scheduling in Collaborative Cloud Robotic Systems</title>
       <link>https://shenghuili2.github.io/publication/task-assignment/</link>
       <pubDate>Wed, 18 Jul 2018 03:52:05 +0800</pubDate>
